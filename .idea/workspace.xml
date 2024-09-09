@@ -73,7 +73,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/k/test_sitemap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -107,7 +107,7 @@
       <workItem from="1725910795308" duration="3735000" />
       <workItem from="1725915869442" duration="42000" />
       <workItem from="1725916006557" duration="779000" />
-      <workItem from="1725917129780" duration="1798000" />
+      <workItem from="1725917129780" duration="2217000" />
     </task>
     <servers />
   </component>
